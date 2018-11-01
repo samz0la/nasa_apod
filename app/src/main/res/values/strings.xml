@@ -1,4 +1,5 @@
 <resources>
   <string name="app_name">NASA APOD</string>
   <string name="base_url">https://api.nasa.gov/</string>
+  <string name="error_message">Unable to retrieve APOD for selected date.</string>
 </resources>
